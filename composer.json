@@ -1,0 +1,17 @@
+{
+    "name": "user/backend",
+    "autoload": {
+        "psr-4": {
+            "User\\Backend\\": "src/",
+            "Test\\": "src/",
+            "Test\\Controllers": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Rizky Firdaus",
+            "email": "rizkyfirdaus0309@gmail.com"
+        }
+    ],
+    "require": {}
+}
